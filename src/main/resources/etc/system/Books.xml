@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<id>book:urn:com:bbyopen:data</id>
+		<title>BBY Open V2 Data Module</title>
+		<desc>Module for gathering and compiling data</desc>
+		<toc>
+			<item id="urn:com:bbyopen:data:guide"/>
+			<item id="urn:com:bbyopen:data:example"/>
+		</toc>
+	</book>
+</books>

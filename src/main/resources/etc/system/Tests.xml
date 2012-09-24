@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+	<test>
+		<id>test:urn:com:bbyopen:data</id>
+		<name>BBY Open V2 Data Module</name>
+		<desc>Module for gathering and compiling data</desc>
+		<uri>res:/resources/test/testlist.xml</uri>
+	</test>
+</tests>
